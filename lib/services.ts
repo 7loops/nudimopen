@@ -14,7 +14,7 @@ export interface Category {
 }
 
 export async function getServices(): Promise<Category[]> {
-  const response = await fetch('http://localhost:3000/api/services', {
+  const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/services`, {
     headers: {
       'Content-Type': 'application/json',
     },

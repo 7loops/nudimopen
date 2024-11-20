@@ -4,7 +4,7 @@ export interface Location {
 }
 
 export async function getLocations(): Promise<Location[]> {
-  const response = await fetch('http://localhost:3000/api/locations', {
+  const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/locations`, {
     headers: {
       'Content-Type': 'application/json',
     },
