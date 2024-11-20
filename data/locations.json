@@ -1,0 +1,858 @@
+[
+  {
+    "location-name": "Ajdovščina",
+    "location-slug": "ajdovscina"
+  },
+  {
+    "location-name": "Ankaran",
+    "location-slug": "ankaran"
+  },
+  {
+    "location-name": "Apače",
+    "location-slug": "apace"
+  },
+  {
+    "location-name": "Beltinci",
+    "location-slug": "beltinci"
+  },
+  {
+    "location-name": "Benedikt",
+    "location-slug": "benedikt"
+  },
+  {
+    "location-name": "Bistrica ob Sotli",
+    "location-slug": "bistrica-ob-sotli"
+  },
+  {
+    "location-name": "Bled",
+    "location-slug": "bled"
+  },
+  {
+    "location-name": "Bloke",
+    "location-slug": "bloke"
+  },
+  {
+    "location-name": "Bohinj",
+    "location-slug": "bohinj"
+  },
+  {
+    "location-name": "Borovnica",
+    "location-slug": "borovnica"
+  },
+  {
+    "location-name": "Bovec",
+    "location-slug": "bovec"
+  },
+  {
+    "location-name": "Braslovče",
+    "location-slug": "braslovce"
+  },
+  {
+    "location-name": "Brda",
+    "location-slug": "brda"
+  },
+  {
+    "location-name": "Brežice",
+    "location-slug": "brezice"
+  },
+  {
+    "location-name": "Brezovica",
+    "location-slug": "brezovica"
+  },
+  {
+    "location-name": "Cankova",
+    "location-slug": "cankova"
+  },
+  {
+    "location-name": "Celje",
+    "location-slug": "celje"
+  },
+  {
+    "location-name": "Cerklje na Gorenjskem",
+    "location-slug": "cerklje-na-gorenjskem"
+  },
+  {
+    "location-name": "Cerknica",
+    "location-slug": "cerknica"
+  },
+  {
+    "location-name": "Cerkno",
+    "location-slug": "cerkno"
+  },
+  {
+    "location-name": "Cerkvenjak",
+    "location-slug": "cerkvenjak"
+  },
+  {
+    "location-name": "Cirkulane",
+    "location-slug": "cirkulane"
+  },
+  {
+    "location-name": "Črenšovci",
+    "location-slug": "crensovci"
+  },
+  {
+    "location-name": "Črna na Koroškem",
+    "location-slug": "crna-na-koroskem"
+  },
+  {
+    "location-name": "Črnomelj",
+    "location-slug": "crnomelj"
+  },
+  {
+    "location-name": "Destrnik",
+    "location-slug": "destrnik"
+  },
+  {
+    "location-name": "Divača",
+    "location-slug": "divaca"
+  },
+  {
+    "location-name": "Dobje",
+    "location-slug": "dobje"
+  },
+  {
+    "location-name": "Dobrepolje",
+    "location-slug": "dobrepolje"
+  },
+  {
+    "location-name": "Dobrna",
+    "location-slug": "dobrna"
+  },
+  {
+    "location-name": "Dobrova - Polhov Gradec",
+    "location-slug": "dobrova-polhov-gradec"
+  },
+  {
+    "location-name": "Dobrovnik",
+    "location-slug": "dobrovnik"
+  },
+  {
+    "location-name": "Dolenjske Toplice",
+    "location-slug": "dolenjske-toplice"
+  },
+  {
+    "location-name": "Dol pri Ljubljani",
+    "location-slug": "dol-pri-ljubljani"
+  },
+  {
+    "location-name": "Domžale",
+    "location-slug": "domzale"
+  },
+  {
+    "location-name": "Dornava",
+    "location-slug": "dornava"
+  },
+  {
+    "location-name": "Dravograd",
+    "location-slug": "dravograd"
+  },
+  {
+    "location-name": "Duplek",
+    "location-slug": "duplek"
+  },
+  {
+    "location-name": "Gorenja vas - Poljane",
+    "location-slug": "gorenja-vas-poljane"
+  },
+  {
+    "location-name": "Gorišnica",
+    "location-slug": "gorisnica"
+  },
+  {
+    "location-name": "Gorje",
+    "location-slug": "gorje"
+  },
+  {
+    "location-name": "Gornja Radgona",
+    "location-slug": "gornja-radgona"
+  },
+  {
+    "location-name": "Gornji Grad",
+    "location-slug": "gornji-grad"
+  },
+  {
+    "location-name": "Gornji Petrovci",
+    "location-slug": "gornji-petrovci"
+  },
+  {
+    "location-name": "Grad",
+    "location-slug": "grad"
+  },
+  {
+    "location-name": "Grosuplje",
+    "location-slug": "grosuplje"
+  },
+  {
+    "location-name": "Hajdina",
+    "location-slug": "hajdina"
+  },
+  {
+    "location-name": "Hoče - Slivnica",
+    "location-slug": "hoce-slivnica"
+  },
+  {
+    "location-name": "Hodoš",
+    "location-slug": "hodos"
+  },
+  {
+    "location-name": "Horjul",
+    "location-slug": "horjul"
+  },
+  {
+    "location-name": "Hrastnik",
+    "location-slug": "hrastnik"
+  },
+  {
+    "location-name": "Hrpelje - Kozina",
+    "location-slug": "hrpelje-kozina"
+  },
+  {
+    "location-name": "Idrija",
+    "location-slug": "idrija"
+  },
+  {
+    "location-name": "Ig",
+    "location-slug": "ig"
+  },
+  {
+    "location-name": "Ilirska Bistrica",
+    "location-slug": "ilirska-bistrica"
+  },
+  {
+    "location-name": "Ivančna Gorica",
+    "location-slug": "ivancna-gorica"
+  },
+  {
+    "location-name": "Izola",
+    "location-slug": "izola"
+  },
+  {
+    "location-name": "Jesenice",
+    "location-slug": "jesenice"
+  },
+  {
+    "location-name": "Jezersko",
+    "location-slug": "jezersko"
+  },
+  {
+    "location-name": "Juršinci",
+    "location-slug": "jursinci"
+  },
+  {
+    "location-name": "Kamnik",
+    "location-slug": "kamnik"
+  },
+  {
+    "location-name": "Kanal ob Soči",
+    "location-slug": "kanal-ob-soci"
+  },
+  {
+    "location-name": "Kidričevo",
+    "location-slug": "kidricevo"
+  },
+  {
+    "location-name": "Kobarid",
+    "location-slug": "kobarid"
+  },
+  {
+    "location-name": "Kobilje",
+    "location-slug": "kobilje"
+  },
+  {
+    "location-name": "Kočevje",
+    "location-slug": "kocevje"
+  },
+  {
+    "location-name": "Komen",
+    "location-slug": "komen"
+  },
+  {
+    "location-name": "Komenda",
+    "location-slug": "komenda"
+  },
+  {
+    "location-name": "Koper",
+    "location-slug": "koper"
+  },
+  {
+    "location-name": "Kostanjevica na Krki",
+    "location-slug": "kostanjevica-na-krki"
+  },
+  {
+    "location-name": "Kostel",
+    "location-slug": "kostel"
+  },
+  {
+    "location-name": "Kozje",
+    "location-slug": "kozje"
+  },
+  {
+    "location-name": "Kranj",
+    "location-slug": "kranj"
+  },
+  {
+    "location-name": "Kranjska Gora",
+    "location-slug": "kranjska-gora"
+  },
+  {
+    "location-name": "Križevci",
+    "location-slug": "krizevci"
+  },
+  {
+    "location-name": "Krško",
+    "location-slug": "krsko"
+  },
+  {
+    "location-name": "Kungota",
+    "location-slug": "kungota"
+  },
+  {
+    "location-name": "Kuzma",
+    "location-slug": "kuzma"
+  },
+  {
+    "location-name": "Laško",
+    "location-slug": "lasko"
+  },
+  {
+    "location-name": "Lenart v Slovenskih goricah",
+    "location-slug": "lenart-v-slovenskih-goricah"
+  },
+  {
+    "location-name": "Lendava",
+    "location-slug": "lendava"
+  },
+  {
+    "location-name": "Litija",
+    "location-slug": "litija"
+  },
+  {
+    "location-name": "Ljubljana",
+    "location-slug": "ljubljana"
+  },
+  {
+    "location-name": "Ljubno",
+    "location-slug": "ljubno"
+  },
+  {
+    "location-name": "Ljutomer",
+    "location-slug": "ljutomer"
+  },
+  {
+    "location-name": "Logatec",
+    "location-slug": "logatec"
+  },
+  {
+    "location-name": "Log - Dragomer",
+    "location-slug": "log-dragomer"
+  },
+  {
+    "location-name": "Loška dolina",
+    "location-slug": "loska-dolina"
+  },
+  {
+    "location-name": "Loški Potok",
+    "location-slug": "loski-potok"
+  },
+  {
+    "location-name": "Lovrenc na Pohorju",
+    "location-slug": "lovrenc-na-pohorju"
+  },
+  {
+    "location-name": "Luče",
+    "location-slug": "luce"
+  },
+  {
+    "location-name": "Lukovica",
+    "location-slug": "lukovica"
+  },
+  {
+    "location-name": "Majšperk",
+    "location-slug": "majsperk"
+  },
+  {
+    "location-name": "Makole",
+    "location-slug": "makole"
+  },
+  {
+    "location-name": "Maribor",
+    "location-slug": "maribor"
+  },
+  {
+    "location-name": "Markovci",
+    "location-slug": "markovci"
+  },
+  {
+    "location-name": "Medvode",
+    "location-slug": "medvode"
+  },
+  {
+    "location-name": "Mengeš",
+    "location-slug": "menges"
+  },
+  {
+    "location-name": "Metlika",
+    "location-slug": "metlika"
+  },
+  {
+    "location-name": "Mežica",
+    "location-slug": "mezica"
+  },
+  {
+    "location-name": "Miklavž na Dravskem polju",
+    "location-slug": "miklavz-na-dravskem-polju"
+  },
+  {
+    "location-name": "Miren - Kostanjevica",
+    "location-slug": "miren-kostanjevica"
+  },
+  {
+    "location-name": "Mirna",
+    "location-slug": "mirna"
+  },
+  {
+    "location-name": "Mirna Peč",
+    "location-slug": "mirna-pec"
+  },
+  {
+    "location-name": "Mislinja",
+    "location-slug": "mislinja"
+  },
+  {
+    "location-name": "Mokronog - Trebelno",
+    "location-slug": "mokronog-trebelno"
+  },
+  {
+    "location-name": "Moravče",
+    "location-slug": "moravce"
+  },
+  {
+    "location-name": "Moravske Toplice",
+    "location-slug": "moravske-toplice"
+  },
+  {
+    "location-name": "Mozirje",
+    "location-slug": "mozirje"
+  },
+  {
+    "location-name": "Murska Sobota",
+    "location-slug": "murska-sobota"
+  },
+  {
+    "location-name": "Muta",
+    "location-slug": "muta"
+  },
+  {
+    "location-name": "Naklo",
+    "location-slug": "naklo"
+  },
+  {
+    "location-name": "Nazarje",
+    "location-slug": "nazarje"
+  },
+  {
+    "location-name": "Nova Gorica",
+    "location-slug": "nova-gorica"
+  },
+  {
+    "location-name": "Novo mesto",
+    "location-slug": "novo-mesto"
+  },
+  {
+    "location-name": "Odranci",
+    "location-slug": "odranci"
+  },
+  {
+    "location-name": "Oplotnica",
+    "location-slug": "oplotnica"
+  },
+  {
+    "location-name": "Ormož",
+    "location-slug": "ormoz"
+  },
+  {
+    "location-name": "Osilnica",
+    "location-slug": "osilnica"
+  },
+  {
+    "location-name": "Pesnica",
+    "location-slug": "pesnica"
+  },
+  {
+    "location-name": "Piran",
+    "location-slug": "piran"
+  },
+  {
+    "location-name": "Pivka",
+    "location-slug": "pivka"
+  },
+  {
+    "location-name": "Podčetrtek",
+    "location-slug": "podcetrtek"
+  },
+  {
+    "location-name": "Podlehnik",
+    "location-slug": "podlehnik"
+  },
+  {
+    "location-name": "Podvelka",
+    "location-slug": "podvelka"
+  },
+  {
+    "location-name": "Poljčane",
+    "location-slug": "poljcane"
+  },
+  {
+    "location-name": "Polzela",
+    "location-slug": "polzela"
+  },
+  {
+    "location-name": "Postojna",
+    "location-slug": "postojna"
+  },
+  {
+    "location-name": "Prebold",
+    "location-slug": "prebold"
+  },
+  {
+    "location-name": "Preddvor",
+    "location-slug": "preddvor"
+  },
+  {
+    "location-name": "Prevalje",
+    "location-slug": "prevalje"
+  },
+  {
+    "location-name": "Ptuj",
+    "location-slug": "ptuj"
+  },
+  {
+    "location-name": "Puconci",
+    "location-slug": "puconci"
+  },
+  {
+    "location-name": "Rače - Fram",
+    "location-slug": "race-fram"
+  },
+  {
+    "location-name": "Radeče",
+    "location-slug": "radece"
+  },
+  {
+    "location-name": "Radenci",
+    "location-slug": "radenci"
+  },
+  {
+    "location-name": "Radlje ob Dravi",
+    "location-slug": "radlje-ob-dravi"
+  },
+  {
+    "location-name": "Radovljica",
+    "location-slug": "radovljica"
+  },
+  {
+    "location-name": "Ravne na Koroškem",
+    "location-slug": "ravne-na-koroskem"
+  },
+  {
+    "location-name": "Razkrižje",
+    "location-slug": "razkrizje"
+  },
+  {
+    "location-name": "Rečica ob Savinji",
+    "location-slug": "recica-ob-savinji"
+  },
+  {
+    "location-name": "Renče - Vogrsko",
+    "location-slug": "rence-vogrsko"
+  },
+  {
+    "location-name": "Ribnica",
+    "location-slug": "ribnica"
+  },
+  {
+    "location-name": "Ribnica na Pohorju",
+    "location-slug": "ribnica-na-pohorju"
+  },
+  {
+    "location-name": "Rogaška Slatina",
+    "location-slug": "rogaska-slatina"
+  },
+  {
+    "location-name": "Rogašovci",
+    "location-slug": "rogasovci"
+  },
+  {
+    "location-name": "Rogatec",
+    "location-slug": "rogatec"
+  },
+  {
+    "location-name": "Ruše",
+    "location-slug": "ruse"
+  },
+  {
+    "location-name": "Šalovci",
+    "location-slug": "salovci"
+  },
+  {
+    "location-name": "Selnica ob Dravi",
+    "location-slug": "selnica-ob-dravi"
+  },
+  {
+    "location-name": "Semič",
+    "location-slug": "semic"
+  },
+  {
+    "location-name": "Šempeter pri Gorici",
+    "location-slug": "sempeter-pri-gorici"
+  },
+  {
+    "location-name": "Šenčur",
+    "location-slug": "sencur"
+  },
+  {
+    "location-name": "Šentilj",
+    "location-slug": "sentilj"
+  },
+  {
+    "location-name": "Šentjernej",
+    "location-slug": "sentjernej"
+  },
+  {
+    "location-name": "Šentjur",
+    "location-slug": "sentjur"
+  },
+  {
+    "location-name": "Šentrupert",
+    "location-slug": "sentrupert"
+  },
+  {
+    "location-name": "Sevnica",
+    "location-slug": "sevnica"
+  },
+  {
+    "location-name": "Sežana",
+    "location-slug": "sezana"
+  },
+  {
+    "location-name": "Škocjan",
+    "location-slug": "skocjan"
+  },
+  {
+    "location-name": "Škofja Loka",
+    "location-slug": "skofja-loka"
+  },
+  {
+    "location-name": "Škofljica",
+    "location-slug": "skofljica"
+  },
+  {
+    "location-name": "Slovenj Gradec",
+    "location-slug": "slovenj-gradec"
+  },
+  {
+    "location-name": "Slovenska Bistrica",
+    "location-slug": "slovenska-bistrica"
+  },
+  {
+    "location-name": "Slovenske Konjice",
+    "location-slug": "slovenske-konjice"
+  },
+  {
+    "location-name": "Šmarje pri Jelšah",
+    "location-slug": "smarje-pri-jelsah"
+  },
+  {
+    "location-name": "Šmarješke Toplice",
+    "location-slug": "smarjeske-toplice"
+  },
+  {
+    "location-name": "Šmartno ob Paki",
+    "location-slug": "smartno-ob-paki"
+  },
+  {
+    "location-name": "Šmartno pri Litiji",
+    "location-slug": "smartno-pri-litiji"
+  },
+  {
+    "location-name": "Sodražica",
+    "location-slug": "sodrazica"
+  },
+  {
+    "location-name": "Solčava",
+    "location-slug": "solcava"
+  },
+  {
+    "location-name": "Šoštanj",
+    "location-slug": "sostanj"
+  },
+  {
+    "location-name": "Središče ob Dravi",
+    "location-slug": "sredisce-ob-dravi"
+  },
+  {
+    "location-name": "Starše",
+    "location-slug": "starse"
+  },
+  {
+    "location-name": "Štore",
+    "location-slug": "store"
+  },
+  {
+    "location-name": "Straža",
+    "location-slug": "straza"
+  },
+  {
+    "location-name": "Sveta Ana",
+    "location-slug": "sveta-ana"
+  },
+  {
+    "location-name": "Sveta Trojica v Slovenskih goricah",
+    "location-slug": "sveta-trojica-v-slovenskih-goricah"
+  },
+  {
+    "location-name": "Sveti Andraž v Slovenskih goricah",
+    "location-slug": "sveti-andraz-v-slovenskih-goricah"
+  },
+  {
+    "location-name": "Sveti Jurij ob Ščavnici",
+    "location-slug": "sveti-jurij-ob-scavnici"
+  },
+  {
+    "location-name": "Sveti Jurij v Slovenskih goricah",
+    "location-slug": "sveti-jurij-v-slovenskih-goricah"
+  },
+  {
+    "location-name": "Sveti Tomaž",
+    "location-slug": "sveti-tomaz"
+  },
+  {
+    "location-name": "Tabor",
+    "location-slug": "tabor"
+  },
+  {
+    "location-name": "Tišina",
+    "location-slug": "tisina"
+  },
+  {
+    "location-name": "Tolmin",
+    "location-slug": "tolmin"
+  },
+  {
+    "location-name": "Trbovlje",
+    "location-slug": "trbovlje"
+  },
+  {
+    "location-name": "Trebnje",
+    "location-slug": "trebnje"
+  },
+  {
+    "location-name": "Trnovska vas",
+    "location-slug": "trnovska-vas"
+  },
+  {
+    "location-name": "Tržič",
+    "location-slug": "trzic"
+  },
+  {
+    "location-name": "Trzin",
+    "location-slug": "trzin"
+  },
+  {
+    "location-name": "Turnišče",
+    "location-slug": "turnisce"
+  },
+  {
+    "location-name": "Velenje",
+    "location-slug": "velenje"
+  },
+  {
+    "location-name": "Velika Polana",
+    "location-slug": "velika-polana"
+  },
+  {
+    "location-name": "Velike Lašče",
+    "location-slug": "velike-lasce"
+  },
+  {
+    "location-name": "Veržej",
+    "location-slug": "verzej"
+  },
+  {
+    "location-name": "Videm",
+    "location-slug": "videm"
+  },
+  {
+    "location-name": "Vipava",
+    "location-slug": "vipava"
+  },
+  {
+    "location-name": "Vipavski Križ",
+    "location-slug": "vipavski-kriz"
+  },
+  {
+    "location-name": "Višnja Gora",
+    "location-slug": "visnja-gora"
+  },
+  {
+    "location-name": "Vitanje",
+    "location-slug": "vitanje"
+  },
+  {
+    "location-name": "Vodice",
+    "location-slug": "vodice"
+  },
+  {
+    "location-name": "Vojnik",
+    "location-slug": "vojnik"
+  },
+  {
+    "location-name": "Vransko",
+    "location-slug": "vransko"
+  },
+  {
+    "location-name": "Vrhnika",
+    "location-slug": "vrhnika"
+  },
+  {
+    "location-name": "Vuzenica",
+    "location-slug": "vuzenica"
+  },
+  {
+    "location-name": "Zagorje ob Savi",
+    "location-slug": "zagorje-ob-savi"
+  },
+  {
+    "location-name": "Žalec",
+    "location-slug": "zalec"
+  },
+  {
+    "location-name": "Zavrč",
+    "location-slug": "zavrc"
+  },
+  {
+    "location-name": "Železniki",
+    "location-slug": "zelezniki"
+  },
+  {
+    "location-name": "Žetale",
+    "location-slug": "zetale"
+  },
+  {
+    "location-name": "Žiri",
+    "location-slug": "ziri"
+  },
+  {
+    "location-name": "Žirovnica",
+    "location-slug": "zirovnica"
+  },
+  {
+    "location-name": "Zreče",
+    "location-slug": "zrece"
+  },
+  {
+    "location-name": "Žužemberk",
+    "location-slug": "zuzemberk"
+  }
+]

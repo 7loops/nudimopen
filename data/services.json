@@ -1,0 +1,371 @@
+[
+  {
+    "category-name": "Dom",
+    "category-slug": "dom",
+    "category-description": "Celovite storitve za vzdrževanje, prenovo in izboljšanje vašega doma.",
+    "category-services": [
+      {
+        "service-name": "Slikopleskarstvo",
+        "service-slug": "slikopleskarstvo",
+        "service-description": "Profesionalno barvanje in dekoriranje notranjih in zunanjih površin",
+        "service-long-description": "Celostne slikopleskarske storitve za dom in poslovne prostore, vključno s pripravo površin in izvedbo."
+      },
+      {
+        "service-name": "Mizarstvo",
+        "service-slug": "mizarstvo",
+        "service-description": "Izdelava in montaža pohištva po meri",
+        "service-long-description": "Izdelava, popravilo in montaža vseh vrst pohištva, vključno z vgradnimi elementi in pohištvom po meri."
+      },
+      {
+        "service-name": "Montaža in servis klime",
+        "service-slug": "montaza-servis-klime",
+        "service-description": "Strokovna namestitev in vzdrževanje klimatskih naprav",
+        "service-long-description": "Profesionalna montaža, servisiranje in vzdrževanje klimatskih sistemov za optimalno delovanje."
+      },
+      {
+        "service-name": "Polaganje ploščic",
+        "service-slug": "polaganje-ploscic",
+        "service-description": "Profesionalna izvedba keramičarskih del",
+        "service-long-description": "Strokovno polaganje vseh vrst ploščic v kopalnicah, kuhinjah in drugih prostorih z zagotovljeno kakovostjo."
+      },
+      {
+        "service-name": "Montaža in prodaja oken",
+        "service-slug": "montaza-prodaja-oken",
+        "service-description": "Celovita storitev za nova okna",
+        "service-long-description": "Svetovanje, prodaja in strokovna montaža različnih vrst oken za optimalno energetsko učinkovitost."
+      },
+      {
+        "service-name": "Selitvene storitve",
+        "service-slug": "selitvene-storitve",
+        "service-description": "Organizacija in izvedba selitev",
+        "service-long-description": "Profesionalna izvedba selitev s transportom, pakiranjem in zaščito pohištva ter predmetov."
+      },
+      {
+        "service-name": "Zavarovanja",
+        "service-slug": "zavarovanja",
+        "service-description": "Celovite zavarovalne storitve za dom",
+        "service-long-description": "Svetovanje in sklepanje različnih vrst zavarovanj za zaščito vašega doma in premoženja."
+      },
+      {
+        "service-name": "Hišni servis in popravila",
+        "service-slug": "hisni-servis-popravila",
+        "service-description": "Vzdrževalna dela in popravila v domu",
+        "service-long-description": "Hitra in zanesljiva izvedba različnih hišnih popravil in vzdrževalnih del."
+      }
+    ]
+  },
+  {
+    "category-name": "Poroka",
+    "category-slug": "poroka",
+    "category-description": "Vse potrebne storitve za organizacijo in izvedbo sanjske poroke.",
+    "category-services": [
+      {
+        "service-name": "Pogostitev za dogodke",
+        "service-slug": "pogostitev-dogodki",
+        "service-description": "Organizacija in izvedba gostinskih storitev",
+        "service-long-description": "Profesionalna priprava in postrežba hrane ter pijače za poročne slovesnosti in spremljajoče dogodke."
+      },
+      {
+        "service-name": "Catering hrane in pijače",
+        "service-slug": "catering",
+        "service-description": "Priprava in dostava hrane ter pijače",
+        "service-long-description": "Celostna catering storitev s pripravo jedi po željah, dostavo in profesionalno postrežbo."
+      },
+      {
+        "service-name": "Glasbeni nastopi",
+        "service-slug": "glasbeni-nastopi",
+        "service-description": "Živa glasba za poročno slavje",
+        "service-long-description": "Profesionalni glasbeni nastopi za poročno slovesnost in zabavo z različnimi glasbenimi žanri."
+      },
+      {
+        "service-name": "Fotografiranje",
+        "service-slug": "fotografiranje",
+        "service-description": "Profesionalno fotografiranje poroke",
+        "service-long-description": "Umetniško fotografiranje celotnega poročnega dne, od priprav do zabave, s končno obdelavo fotografij."
+      },
+      {
+        "service-name": "Cvetličarske storitve",
+        "service-slug": "cvetlicarske-storitve",
+        "service-description": "Poročne dekoracije in šopki",
+        "service-long-description": "Izdelava poročnih šopkov, dekoracij in cvetličnih aranžmajev za celotno poročno slavje."
+      }
+    ]
+  },
+  {
+    "category-name": "Posel",
+    "category-slug": "posel",
+    "category-description": "Profesionalne storitve za podporo in razvoj vašega poslovanja.",
+    "category-services": [
+      {
+        "service-name": "Svetovanje GDPR",
+        "service-slug": "svetovanje-gdpr",
+        "service-description": "Implementacija varstva osebnih podatkov",
+        "service-long-description": "Strokovna pomoč pri usklajevanju poslovanja z GDPR zakonodajo in implementaciji potrebnih ukrepov."
+      },
+      {
+        "service-name": "Poslovni programi",
+        "service-slug": "poslovni-programi",
+        "service-description": "Programske rešitve za podjetja",
+        "service-long-description": "Razvoj in implementacija poslovnih programov po meri za optimizacijo poslovanja."
+      },
+      {
+        "service-name": "Računovodske storitve",
+        "service-slug": "racunovodske-storitve",
+        "service-description": "Celovito vodenje računovodstva",
+        "service-long-description": "Profesionalno vodenje poslovnih knjig, obračun plač in davčno svetovanje za podjetja."
+      },
+      {
+        "service-name": "Marketing",
+        "service-slug": "marketing",
+        "service-description": "Celostne marketinške storitve",
+        "service-long-description": "Načrtovanje in izvedba marketinških kampanj, digitalni marketing in promocija blagovne znamke."
+      }
+    ]
+  },
+  {
+    "category-name": "Gradnja in obnova",
+    "category-slug": "gradnja-obnova",
+    "category-description": "Celostne gradbene storitve od načrtovanja do izvedbe.",
+    "category-services": [
+      {
+        "service-name": "Prenova kopalnice",
+        "service-slug": "prenova-kopalnice",
+        "service-description": "Celostna prenova kopalniških prostorov",
+        "service-long-description": "Načrtovanje in izvedba prenove kopalnice, vključno z instalacijami, keramiko in sanitarno opremo."
+      },
+      {
+        "service-name": "Fasaderstvo",
+        "service-slug": "fasaderstvo",
+        "service-description": "Izdelava in obnova fasad",
+        "service-long-description": "Strokovna izvedba fasadnih del, toplotna izolacija in zaključni sloji za energetsko učinkovitost."
+      }
+    ]
+  },
+  {
+    "category-name": "Finančne storitve",
+    "category-slug": "financne-storitve",
+    "category-description": "Strokovne finančne in zavarovalniške storitve.",
+    "category-services": [
+      {
+        "service-name": "Zavarovanja",
+        "service-slug": "zavarovanja-finance",
+        "service-description": "Celovite zavarovalne storitve",
+        "service-long-description": "Svetovanje in sklepanje vseh vrst zavarovanj za posameznike in podjetja."
+      },
+      {
+        "service-name": "Davčno svetovanje",
+        "service-slug": "davcno-svetovanje",
+        "service-description": "Strokovno davčno svetovanje",
+        "service-long-description": "Svetovanje pri davčni optimizaciji in pomoč pri davčnih postopkih."
+      }
+    ]
+  },
+  {
+    "category-name": "Foto/video",
+    "category-slug": "foto-video",
+    "category-description": "Profesionalne fotografske in video storitve.",
+    "category-services": [
+      {
+        "service-name": "Fotografiranje",
+        "service-slug": "fotografiranje-storitve",
+        "service-description": "Profesionalno fotografiranje",
+        "service-long-description": "Fotografiranje dogodkov, portretov in poslovne fotografije z umetniško obdelavo."
+      },
+      {
+        "service-name": "Video produkcija",
+        "service-slug": "video-produkcija",
+        "service-description": "Snemanje in montaža videa",
+        "service-long-description": "Profesionalna video produkcija za dogodke, promocijske videe in dokumentarne vsebine."
+      }
+    ]
+  },
+  {
+    "category-name": "Storitve za avto",
+    "category-slug": "avto-storitve",
+    "category-description": "Vse storitve za vzdrževanje in servisiranje vozil.",
+    "category-services": [
+      {
+        "service-name": "Avtomehanika",
+        "service-slug": "avtomehanika",
+        "service-description": "Servis in popravila vozil",
+        "service-long-description": "Strokoven servis, diagnostika in popravila vseh vrst vozil z originalni deli."
+      },
+      {
+        "service-name": "Najem vozil",
+        "service-slug": "najem-vozil",
+        "service-description": "Izposoja različnih vozil",
+        "service-long-description": "Kratkoročni in dolgoročni najem osebnih vozil, kombijev in gospodarskih vozil."
+      }
+    ]
+  },
+  {
+    "category-name": "Logistične storitve",
+    "category-slug": "logisticne-storitve",
+    "category-description": "Profesionalne storitve prevoza in logistike.",
+    "category-services": [
+      {
+        "service-name": "Prevoz blaga",
+        "service-slug": "prevoz-blaga",
+        "service-description": "Transport različnega blaga",
+        "service-long-description": "Organizacija in izvedba prevoza blaga po Sloveniji in tujini z različnimi vozili."
+      },
+      {
+        "service-name": "Prevoz potnikov",
+        "service-slug": "prevoz-potnikov",
+        "service-description": "Organiziran prevoz oseb",
+        "service-long-description": "Prevoz potnikov za različne priložnosti z udobnimi vozili in profesionalnimi vozniki."
+      }
+    ]
+  },
+  {
+    "category-name": "Marketing",
+    "category-slug": "marketing-storitve",
+    "category-description": "Celovite marketinške in promocijske storitve.",
+    "category-services": [
+      {
+        "service-name": "Digitalni marketing",
+        "service-slug": "digitalni-marketing",
+        "service-description": "Spletno oglaševanje in promocija",
+        "service-long-description": "Načrtovanje in izvedba digitalnih marketinških kampanj, SEO optimizacija in spletno oglaševanje."
+      },
+      {
+        "service-name": "Grafično oblikovanje",
+        "service-slug": "graficno-oblikovanje",
+        "service-description": "Oblikovanje vizualnih materialov",
+        "service-long-description": "Kreativno oblikovanje logotipov, tiskovin in drugih marketinških materialov."
+      }
+    ]
+  },
+  {
+    "category-name": "Osebne storitve",
+    "category-slug": "osebne-storitve",
+    "category-description": "Individualne storitve za osebno nego in razvoj.",
+    "category-services": [
+      {
+        "service-name": "Osebno trenerstvo",
+        "service-slug": "osebno-trenerstvo",
+        "service-description": "Individualna fitnes vadba",
+        "service-long-description": "Osebno vodena vadba s profesionalnim trenerjem, prilagojena individualnim ciljem."
+      },
+      {
+        "service-name": "Wellness",
+        "service-slug": "wellness",
+        "service-description": "Sprostitvene in lepotne storitve",
+        "service-long-description": "Celostne wellness storitve za sprostitev in dobro počutje."
+      }
+    ]
+  },
+  {
+    "category-name": "Storitve za hišne ljubljenčke",
+    "category-slug": "hisni-ljubljencki",
+    "category-description": "Storitve za nego in oskrbo hišnih ljubljenčkov.",
+    "category-services": [
+      {
+        "service-name": "Pasji salon",
+        "service-slug": "pasji-salon",
+        "service-description": "Nega in striženje psov",
+        "service-long-description": "Profesionalna nega, striženje in kopanje psov vseh pasem."
+      },
+      {
+        "service-name": "Pasji hotel",
+        "service-slug": "pasji-hotel",
+        "service-description": "Varstvo za pse",
+        "service-long-description": "Začasno varstvo psov v profesionalnem okolju z izkušenim osebjem."
+      }
+    ]
+  },
+  {
+    "category-name": "Organizacija dogodkov",
+    "category-slug": "organizacija-dogodkov",
+    "category-description": "Profesionalna organizacija vseh vrst dogodkov.",
+    "category-services": [
+      {
+        "service-name": "Catering",
+        "service-slug": "catering-dogodki",
+        "service-description": "Gostinske storitve za dogodke",
+        "service-long-description": "Priprava in postrežba hrane ter pijače za vse vrste dogodkov."
+      },
+      {
+        "service-name": "Najem prostora",
+        "service-slug": "najem-prostora",
+        "service-description": "Prostori za različne dogodke",
+        "service-long-description": "Oddaja primernih prostorov za konference, zabave in druge dogodke."
+      },
+      {
+        "service-name": "Ozvočenje in razsvetljava",
+        "service-slug": "ozvocenje-razsvetljava",
+        "service-description": "Tehnična podpora za dogodke",
+        "service-long-description": "Profesionalna tehnična oprema in podpora za vse vrste prireditev."
+      }
+    ]
+  },
+  {
+    "category-name": "Otroške storitve",
+    "category-slug": "otroske-storitve",
+    "category-description": "Specializirane storitve za otroke in njihove potrebe.",
+    "category-services": [
+      {
+        "service-name": "Varstvo otrok",
+        "service-slug": "varstvo-otrok",
+        "service-description": "Profesionalno varstvo otrok",
+        "service-long-description": "Kakovostno varstvo otrok s strokovno usposobljenim osebjem v varnem okolju."
+      },
+      {
+        "service-name": "Animacija na dogodkih",
+        "service-slug": "animacija-dogodki",
+        "service-description": "Zabavni program za otroke",
+        "service-long-description": "Organizacija in izvedba zabavnih aktivnosti za otroke na različnih dogodkih."
+      }
+    ]
+  },
+  {
+    "category-name": "Zdravstvene storitve",
+    "category-slug": "zdravstvene-storitve",
+    "category-description": "Strokovne zdravstvene in preventivne storitve.",
+    "category-services": [
+      {
+        "service-name": "Psihoterapija",
+        "service-slug": "psihoterapija",
+        "service-description": "Strokovna psihološka pomoč",
+        "service-long-description": "Individualna in skupinska psihoterapija z izkušenimi terapevti."
+      },
+      {
+        "service-name": "Fizioterapija",
+        "service-slug": "fizioterapija",
+        "service-description": "Fizioterapevtske storitve",
+        "service-long-description": "Strokovna fizioterapija za rehabilitacijo in preventivo."
+      },
+      {
+        "service-name": "Zobozdravstvene storitve",
+        "service-slug": "zobozdravstvo",
+        "service-description": "Celostno zobozdravstvo",
+        "service-long-description": "Sodobne zobozdravstvene storitve za zdravje in estetiko zob."
+      }
+    ]
+  },
+  {
+    "category-name": "Pogrebne storitve",
+    "category-slug": "pogrebne-storitve",
+    "category-description": "Celostna organizacija pogrebnih slovesnosti.",
+    "category-services": [
+      {
+        "service-name": "Organizacija pogreba",
+        "service-slug": "organizacija-pogreba",
+        "service-description": "Celostna organizacija pogreba",
+        "service-long-description": "Profesionalna organizacija pogrebne slovesnosti z vsemi potrebnimi storitvami."
+      },
+      {
+        "service-name": "Nagrobni spomenik",
+        "service-slug": "nagrobni-spomenik",
+        "service-description": "Izdelava nagrobnih spomenikov",
+        "service-long-description": "Načrtovanje in izdelava kakovostnih nagrobnih spomenikov po željah naročnika."
+      },
+      {
+        "service-name": "Prevoz pokojnikov",
+        "service-slug": "prevoz-pokojnikov",
+        "service-description": "Strokovni prevoz pokojnikov",
+        "service-long-description": "Organizacija in izvedba prevoza pokojnikov v skladu s predpisi."
+      }
+    ]
+  }
+]
