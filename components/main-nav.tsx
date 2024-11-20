@@ -5,7 +5,7 @@ import { Search } from 'lucide-react';
 export default function MainNav() {
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-white">
-      <div className="container flex h-16 items-center justify-between">
+      <div className="container px-4 mx-auto flex h-16 items-center justify-between">
         <Link href="/" className="flex items-center space-x-2">
           <Search className="h-6 w-6" />
           <span className="font-bold">Nudim.si</span>
